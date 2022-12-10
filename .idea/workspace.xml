@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84340eaa-29d0-4f73-ab22-10385a083f8e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/5/651b005c614bc1d961f3e92d35700a47b3c6b782" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/a/6a58e05a6c8125f555694b8ed865754736fbbbf9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/1/d1699b55b9543f5ed8abe81b676e731afc3148c5" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day13GenericPrograms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Day13GenericPrograms.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -39,83 +44,113 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RefactorUC2">
-    <configuration name="MaximumTestUC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.generics.MaximumTestUC" />
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.generictest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.IntegerMaxTest">
+    <configuration name="DemoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Day13GenericPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.generics.*" />
+          <option name="PATTERN" value="com.generictest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.generictest" />
+      <option name="MAIN_CLASS_NAME" value="com.generictest.DemoTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintArrayWithGenerics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.generics.PrintArrayWithGenerics" />
+    <configuration name="DemoTest.givenFirstIntegerNumberAsLarge_ShouldReturn_FirstNumberAsMax" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Day13GenericPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.generics.*" />
+          <option name="PATTERN" value="com.generictest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.generictest" />
+      <option name="MAIN_CLASS_NAME" value="com.generictest.DemoTest" />
+      <option name="METHOD_NAME" value="givenFirstIntegerNumberAsLarge_ShouldReturn_FirstNumberAsMax" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintArrayWithOutGenerics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.generics.PrintArrayWithOutGenerics" />
+    <configuration name="IntegerMaxTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Day13GenericPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.generics.*" />
+          <option name="PATTERN" value="com.generictest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.generictest" />
+      <option name="MAIN_CLASS_NAME" value="com.generictest.IntegerMaxTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RefactorUC2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.generics.RefactorUC2" />
+    <configuration name="MaximumTC1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Day13GenericPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.generics.*" />
+          <option name="PATTERN" value="com.generictest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.generictest" />
+      <option name="MAIN_CLASS_NAME" value="com.generictest.MaximumTC1Test" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringMaxUC3$StrMaxTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.generics.StringMaxUC3$StrMaxTest" />
+    <configuration name="MaximumTC1Test.givenThirdIntegerNumberAsLarge_ShouldReturn_ThirdNumberAsMax" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Day13GenericPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.generics.*" />
+          <option name="PATTERN" value="com.generictest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.generictest" />
+      <option name="MAIN_CLASS_NAME" value="com.generictest.MaximumTC1Test" />
+      <option name="METHOD_NAME" value="givenThirdIntegerNumberAsLarge_ShouldReturn_ThirdNumberAsMax" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RefactorUC2" />
-        <item itemvalue="Application.MaximumTestUC" />
-        <item itemvalue="Application.StringMaxUC3$StrMaxTest" />
-        <item itemvalue="Application.PrintArrayWithGenerics" />
-        <item itemvalue="Application.PrintArrayWithOutGenerics" />
+        <item itemvalue="JUnit.IntegerMaxTest" />
+        <item itemvalue="JUnit.MaximumTC1Test" />
+        <item itemvalue="JUnit.DemoTest.givenFirstIntegerNumberAsLarge_ShouldReturn_FirstNumberAsMax" />
+        <item itemvalue="JUnit.DemoTest" />
+        <item itemvalue="JUnit.MaximumTC1Test.givenThirdIntegerNumberAsLarge_ShouldReturn_ThirdNumberAsMax" />
       </list>
     </recent_temporary>
   </component>
